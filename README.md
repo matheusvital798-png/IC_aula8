@@ -140,6 +140,9 @@ Combina todos os conceitos:
 8. Confirma no GitHub que a nova imagem está armazenada com Git LFS.
 
 ---
+## Sincronização Git
+
+Esta alteração foi realizada diretamente no GitHub.
 
 ### 💡 Sugestões
 
