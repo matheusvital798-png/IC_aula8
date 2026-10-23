@@ -1,17 +1,18 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:~Matheus Silva**  
+- **Número:a22602709**  
+- **Turma:1º ano turno 1**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Nesta branch estou a praticar a criação de branches,
+commits e Pull Requests.
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+ficheiro em fase de teste 
