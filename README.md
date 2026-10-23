@@ -144,6 +144,10 @@ Combina todos os conceitos:
 
 Esta alteração foi realizada diretamente no GitHub.
 
+## Atualização do projeto
+
+Este projeto utiliza Git LFS para gerir imagens PNG.
+
 ### 💡 Sugestões
 
 - Garante que fazes **commits pequenos e descritivos**.
